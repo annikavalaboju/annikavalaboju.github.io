@@ -23,7 +23,7 @@ Volunteered as Patient Experience Volunteer, focusing on administrative support 
 
 
 # Programmer
-HOT Robotics Team
+HOT Robotics Team (2019 - 2022)
 
 Contributed as a Programmer for the robotics team, focusing on developing code for competition challenges. Collaborated alongside other team members to design and implement code for robot functionalities, ensuring proper operation. Utilized programming languages such as Python and Java to create algorithms and control systems. Demonstrated problem-solving by debugging and troubleshooting code to meet requirements. Participated in team meetings and strategy sessions to execute successful approaches
   - Showcased leadership abilities by mentoring junior team members
