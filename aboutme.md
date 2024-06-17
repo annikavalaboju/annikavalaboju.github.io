@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+thumbnail-img: "/assets/img/thumb.png"
 ---
 
 My name is Annika Valaboju. I am a student at Michigan State University, currently pursuing a Bachelors in Computer Science. With a strong focus in software systems and development, I have developed an interest in building complex and innovative projects. 
