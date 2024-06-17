@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Education
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: false
 mathjax: false
 ---
