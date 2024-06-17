@@ -41,9 +41,9 @@ title: Skills
   - Organizational skills
  
 - **Languages**:
-  - English: Native
-  - Telugu: Proficient
-  - Hindi: Proficient
+  - English Native
+  - Telugu Proficient
+  - Hindi Proficient
 
  
   
