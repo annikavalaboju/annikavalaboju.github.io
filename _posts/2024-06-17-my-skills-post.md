@@ -3,7 +3,7 @@ layout: page
 title: Skills
 ---
 
-## Skills
+
 ### Technical Skills
 
 - **Programming Languages:**
