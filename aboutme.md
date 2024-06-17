@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Annika Valaboju. I am a student at Michigan State University, currently pursuing a Bachelors in Computer Science. With a strong focus in software systems and development, I have developed an interest in building complex and innovative projects. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My coursework and foundational skills have aided me in gaining the proper hands-on experience in computer science. I have had the opportunity to apply these skills in real-world scenarios through coursework and projects. These roles have allowed me to collaborate with my peers, improve decision-making abilities, and has given me opportunities to learn different coding languages. 
