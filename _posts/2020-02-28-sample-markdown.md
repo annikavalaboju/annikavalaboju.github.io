@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Education
-comments: false
-mathjax: false
 ---
 
 # Michigan State University
+
+
 
 > *Pursuing Bachelors in Computer Science*
 >
