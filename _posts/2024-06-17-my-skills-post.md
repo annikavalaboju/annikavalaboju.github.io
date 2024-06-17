@@ -3,7 +3,7 @@ layout: page
 title: Skills
 ---
 
-
+<img src="/assets/img/computer.png" alt="computer" style="display: block; margin:0 auto; width: 200px; height:auto;">
 
 ### Technical Skills
 
