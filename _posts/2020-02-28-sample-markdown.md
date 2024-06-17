@@ -11,6 +11,7 @@ mathjax: false
 # Michigan State University
 
 > *Pursuing Bachelors in Computer Science*
+>
 > *2022 - Current*
 
 Studying Computer Science. Developing skills in software development, algorithms
@@ -23,6 +24,7 @@ especially in network security, cryptography, and ethical hacking.
 # International Academy
 
 > *International Baccaleaureate Diploma*
+> 
 > *2018 - 2022*
 
 Demonstrated commitment to academic success and well-rounded development, completed rigorous curriculum that includes advanced courses in mathematics, science, language, and literature. Developed critical thinking, research, and time management skills throughout coursework and various projects. Actively participated in extracurricular activities, fostering leadership and collaboration.
