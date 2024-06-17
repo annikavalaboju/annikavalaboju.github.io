@@ -12,17 +12,19 @@ title: Skills
  
 - **Web Development:**
   - Frontend: CSS, JavaScript
-  - Backend: Express
+  - Backend: Express, Sublime
  
 - **Tools and Technologies:**
-  - Version Control: Git, GitHub
+  - Version Control: Git, GitHub, VSCode
   - CAD Software: AutoCAD, Adobe, Autodesk
-  - Other tools: MATLAB
+  - Other tools: MATLAB, JavaScript Libraries
  
 ### Other Skills
 
 - **Problem-Solving**:
   - Identifying issues and strategizing decision making
+  - Dedicating time and effort into effective troubleshooting and debugging
+  - Innovative approaches to finding effective solutions
  
 - **Communication**:
   - Verbal and written communication skills
@@ -36,6 +38,9 @@ title: Skills
 - **Time Management**:
   - Prioritizing tasks and meeting deadlines
   - Manage multiple projects
+  - Organizational skills
+ 
+- **Languages**:
  
   
 
