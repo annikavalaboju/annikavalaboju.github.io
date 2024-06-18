@@ -5,6 +5,16 @@ title: Experience
 
 <img src="/assets/img/experience.png" alt="experience" style="display: block; margin:0 auto; width: 200px; height:auto;">
 
+
+### Programmer
+HOT Robotics Team (2019 - 2022)
+
+Contributed as a Programmer for the robotics team, focusing on developing code for competition challenges. Collaborated alongside other team members to design and implement code for robot functionalities, ensuring proper operation. Utilized programming languages such as Python and Java to create algorithms and control systems. Demonstrated problem-solving by debugging and troubleshooting code to meet requirements. Participated in team meetings and strategy sessions to execute successful approaches
+  - Showcased leadership abilities by mentoring junior team members
+  - Contributed to decision making processes during meetings
+  - Participated in testing and debugging processes to identify and resolve issues
+
+
 ### Pick Up
 Kroger (2021 - 2022)
 
@@ -21,13 +31,3 @@ Volunteered as Patient Experience Volunteer, focusing on administrative support 
   - Upheld confidentiality and patient privacy standards
   - Contributed to a positive patience experience by maintaining a supportive environment in the   
     Institute.
-
-
-
-### Programmer
-HOT Robotics Team (2019 - 2022)
-
-Contributed as a Programmer for the robotics team, focusing on developing code for competition challenges. Collaborated alongside other team members to design and implement code for robot functionalities, ensuring proper operation. Utilized programming languages such as Python and Java to create algorithms and control systems. Demonstrated problem-solving by debugging and troubleshooting code to meet requirements. Participated in team meetings and strategy sessions to execute successful approaches
-  - Showcased leadership abilities by mentoring junior team members
-  - Contributed to decision making processes during meetings
-  - Participated in testing and debugging processes to identify and resolve issues
