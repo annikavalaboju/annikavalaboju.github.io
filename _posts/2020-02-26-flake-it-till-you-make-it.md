@@ -18,8 +18,9 @@ Henry Ford Cancer Institute (2021 - 2022)
 Volunteered as Patient Experience Volunteer, focusing on administrative support and patient assistance. Responsible for sorting and organizing appointment records using computer systems, and compiling detailed reports for management review. Occasionally escorted patients to appointments, providing support and comfort during visitation. Developed strong organization and communication skills while contributing to the efficient operation of patient care services.
   - Collaborated with healthcare professionals and staff to enhance streamline operations
   - Upheld confidentiality and patient privacy standards
-  - Contributed to a positive patience experience by maintaining a supportive environment in the     
+  - Contributed to a positive patience experience by maintaining a supportive environment in the   
     Institute.
+
 
 
 ### Programmer
