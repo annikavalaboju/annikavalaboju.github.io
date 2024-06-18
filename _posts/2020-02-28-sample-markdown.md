@@ -3,7 +3,7 @@ layout: post
 title: Education
 ---
 
-## Michigan State University
+### Michigan State University
 
 
 
@@ -18,7 +18,7 @@ especially in network security, cryptography, and ethical hacking.
   - Experienced in developing and debugging software applications
   - Ability to work effectively in team environments and project collaboration
 
-## International Academy
+### International Academy
 
 > *International Baccaleaureate Diploma*
 > 
