@@ -3,6 +3,7 @@ layout: post
 title: Experience
 ---
 
+<img src="/assets/img/experience.png" alt="experience" style="display: block; margin:0 auto; width: 200px; height:auto;">
 
 ### Pick Up
 Kroger (2021 - 2022)
