@@ -3,6 +3,9 @@ layout: post
 title: Education
 ---
 
+<img src="/assets/img/grad.png" alt="grad" style="display: block; margin:0 auto; width: 200px; height:auto;">
+
+
 ### Michigan State University
 
 
