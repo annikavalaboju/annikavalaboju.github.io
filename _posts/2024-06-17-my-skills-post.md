@@ -33,7 +33,7 @@ title: Skills
   - Working effectively in team environments and project collaboration
  
 - **Collaboration**:
-  - Collarborative team player with experience in development environments
+  - Collaborative team player with experience in development environments
   - Ability to work effectively in various groups, regardless of skill
  
 - **Time Management**:
